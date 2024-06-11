@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1718051484 source:d:\projetcc\paralle\projet final\udbl_dactylogiciel\aide.c
+	<stdio.h>
+	<stdlib.h>
+	"aide.h"
+	"utils.h"
+
+1718051632 d:\projetcc\paralle\projet final\udbl_dactylogiciel\aide.h
+
+1718051671 d:\projetcc\paralle\projet final\udbl_dactylogiciel\utils.h
+
+1718051419 source:d:\projetcc\paralle\projet final\udbl_dactylogiciel\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jeu.h"
+	"utils.h"
+
+1718051530 d:\projetcc\paralle\projet final\udbl_dactylogiciel\jeu.h
+
+1718087404 source:d:\projetcc\paralle\projet final\udbl_dactylogiciel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jeu.h"
+	"config.h"
+	"aide.h"
+	"utils.h"
+
+1718051574 d:\projetcc\paralle\projet final\udbl_dactylogiciel\config.h
+
+1718051480 source:d:\projetcc\paralle\projet final\udbl_dactylogiciel\utils.c
+	<windows.h>
+	"utils.h"
+
+1718087400 source:d:\projetcc\paralle\projet final\udbl_dactylogiciel\config.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"config.h"
+	"utils.h"
+
